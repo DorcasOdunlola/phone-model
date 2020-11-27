@@ -14,6 +14,10 @@
 						</div>`
 					
 
+
+
+						
+
 						var balance = 0;
 							if(typeof(localStorage.getItem("Acctbalance")) == 'string'){
 				balance = parseInt(localStorage.getItem("Acctbalance"));
